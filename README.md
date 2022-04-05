@@ -1,4 +1,4 @@
-# Junyi Analysis
+# 均一分析 Junyi Analysis
 
 data source：https://www.kaggle.com/junyiacademy/learning-activity-public-dataset-by-junyi-academy
 
